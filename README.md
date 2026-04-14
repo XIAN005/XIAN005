@@ -20,9 +20,8 @@
 * My workspace is 100% distraction-free: no icons, no notifications.
 
 ### > Certifications
-
+* **Google Prompting Essentials**: [Verified Specialization](https://coursera.org/share/3f23702ad079b7510867d50aee55b0f7) — Advanced prompting techniques & workflow automation.
 * **Harvard CS50x**: [Verified Certificate](https://courses.edx.org/certificates/b83c34f1bf754b46bc8122d556e287ee) — Computer Science fundamentals (C, Python, SQL, Algorithms).
-
 ---
 
 > *Designing with precision, optimizing with passion.*
