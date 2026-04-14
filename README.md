@@ -1,28 +1,24 @@
-## XIAN005 👋
+# XIAN005 👋
 
-Graphic Designer | Dev & Optimization
-🎨 Design & Dev
+**Graphic Designer | Dev & Optimization**
 
-    Graphic Design : Création d'identités visuelles et design technique.
+---
 
-    Languages : C (Base) | Python (Learning) | Bash.
+### 🎨 Design & Dev
+* **Graphic Design:** Crafting visual identities and technical design.
+* **Languages:** C (Basics) | Python (Learning) | Bash.
+* **Specialty:** Prompt Engineering & Workflow Automation.
 
-    Specialty : Prompt Engineering & Workflow Automation.
+### 🚀 Optimization
+* **Hardware:** Maximizing performance on resource-limited hardware.
+* **Environment:** Arch Linux / antiX (i3wm) Power User.
+* **Minimalist Tools:** Developing CLI and TUI tools (e.g., **Mood Sofa**).
 
-🚀 Optimization
+### ⚡ Fun Fact
+* I'm a beginner in **live coding** for music creation and mixing.
+* I can turn an "obsolete" PC into an ultra-fast workstation.
+* My workspace is 100% distraction-free: no icons, no notifications.
 
-    Hardware : Maximiser les performances sur machines à ressources limitées.
+---
 
-    Environment : Power user Arch Linux / antiX (i3wm).
-
-    Minimalist Tools : Développement d'outils CLI et TUI (ex: Mood Sofa).
-
-⚡ Fun Fact
-
-    Je débute en live coding pour créer et mixer de la musique.
-
-    Je peux transformer un PC "obsolète" en une station de travail ultra-rapide.
-
-    Mon espace de travail est 100% sans distraction : ni icônes, ni notifications.
-
-    Designing with precision, optimizing with passion.
+> *Designing with precision, optimizing with passion.*
