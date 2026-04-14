@@ -1,16 +1,28 @@
-## Hi there 👋
+## XIAN005 👋
 
-<!--
-**XIAN005/XIAN005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic Designer | Dev & Optimization
+🎨 Design & Dev
 
-Here are some ideas to get you started:
+    Graphic Design : Création d'identités visuelles et design technique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Languages : C (Base) | Python (Learning) | Bash.
+
+    Specialty : Prompt Engineering & Workflow Automation.
+
+🚀 Optimization
+
+    Hardware : Maximiser les performances sur machines à ressources limitées.
+
+    Environment : Power user Arch Linux / antiX (i3wm).
+
+    Minimalist Tools : Développement d'outils CLI et TUI (ex: Mood Sofa).
+
+⚡ Fun Fact
+
+    Je débute en live coding pour créer et mixer de la musique.
+
+    Je peux transformer un PC "obsolète" en une station de travail ultra-rapide.
+
+    Mon espace de travail est 100% sans distraction : ni icônes, ni notifications.
+
+    Designing with precision, optimizing with passion.
